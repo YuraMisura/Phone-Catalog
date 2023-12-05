@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import cn from 'classnames';
 import { ICONS } from '../../icons';
 import './PictureSlider.scss';

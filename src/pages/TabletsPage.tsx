@@ -1,8 +1,4 @@
-import {
-  useCallback,
-  useState,
-  useEffect,
-} from 'react';
+import React, { useCallback, useState, useEffect } from 'react';
 import debounce from 'lodash.debounce';
 import { Link } from 'react-router-dom';
 import { ICONS } from '../icons';

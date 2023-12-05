@@ -1,3 +1,4 @@
+import React from 'react';
 import {
   Link,
   NavLink,
@@ -35,7 +36,7 @@ export const Footer = () => {
 
                 <li className="nav__item">
                   <NavLink
-                    to="/contacts"
+                    to="https://linkedin.com/in/yura-missura-4aa2802a3"
                     className={getLinkClass}
                   >
                     CONTACTS

@@ -1,4 +1,4 @@
-import { useMemo, useContext } from 'react';
+import React, { useMemo, useContext } from 'react';
 import { GlobalContext } from '../../store/GlobalContext';
 import ProductsSlider from '../ProductsSlider/ProductsSlider';
 import { getHotPriceProducts } from '../../helpers/getProductsByCategories';

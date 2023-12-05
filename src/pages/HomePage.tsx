@@ -1,3 +1,4 @@
+import React from 'react';
 import { PictureSlider } from '../components/PictureSlider';
 import { HotPrice } from '../components/HotPrice';
 import { BrandNew } from '../components/BrandNew';
