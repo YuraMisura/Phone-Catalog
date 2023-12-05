@@ -8,7 +8,7 @@
    - localStorage: Used to store cart and favorites data on the client side.
 
 ## 3. Link to the project:
-  - https://yuramisura.github.io/react_phone-catalog/
+  [DEMO]- https://yuramisura.github.io/Phone-Catalog/
 
 ## 4. Link to the GitHub:
   - https://github.com/YuraMisura/Phone-Catalog
